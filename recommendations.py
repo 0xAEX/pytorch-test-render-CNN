@@ -2,7 +2,7 @@
 Información educativa por clase para el dataset HAM10000.
 
 ⚠️ IMPORTANTE: Este contenido es ÚNICAMENTE EDUCATIVO, para un proyecto
-académico (PFAD-PADCC-VIC04 - TecNM Virtual). NO sustituye una consulta
+académico (PFAD-PADCC-VIC04 - TestCNN Pytorch Virtual). NO sustituye una consulta
 médica ni constituye un diagnóstico. El texto de cada clase incluye
 siempre una recomendación de acudir con un dermatólogo.
 """

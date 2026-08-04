@@ -10,7 +10,7 @@ Endpoints:
   POST /predict       -> recibe una imagen (multipart/form-data, campo "file")
                           y regresa la predicción + recomendaciones
 
-⚠️ Proyecto académico (PFAD-PADCC-VIC04 - TecNM Virtual).
+⚠️ Proyecto académico (PFAD-PADCC-VIC04 - TestCNN Pytorch Virtual).
 No es una herramienta de diagnóstico médico real.
 """
 
@@ -73,7 +73,7 @@ preprocess = transforms.Compose(
 app = FastAPI(
     title="API Clasificador de Lesiones de Piel (HAM10000)",
     description=(
-        "Proyecto académico - PFAD-PADCC-VIC04 - TecNM Virtual. "
+        "Proyecto académico - PFAD-PADCC-VIC04 - TestCNN Pytorch Virtual. "
         "NO constituye diagnóstico médico."
     ),
     version="1.0.0",
